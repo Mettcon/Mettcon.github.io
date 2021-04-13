@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+title: Powershell
+description: Noch ein Powershell Blog 
+author: Mettcon
+github: https://github.com/Mettcon
+about: about me
+disqus_shortname: pwsh
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
@@ -38,7 +38,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://mettcon.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
